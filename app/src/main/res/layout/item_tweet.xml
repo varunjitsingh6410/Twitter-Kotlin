@@ -19,14 +19,13 @@
         android:id="@+id/tvUsername"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="4dp"
-        android:layout_margin="10dp"
-        android:text="varunjitsingh6410"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintStart_toEndOf="@+id/ivAvatar"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_margin="10dp"
+        android:ellipsize="end"
+        android:text="varunjitsingh6410" />
 
     <TextView
         android:id="@+id/tvTweetBody"
