@@ -12,11 +12,8 @@
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+<img src="https://github.com/varunjitsingh6410/Twitter-Kotlin/blob/master/Twitter-Demo.gif?raw=true" width="250" height="400">
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
