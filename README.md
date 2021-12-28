@@ -2,6 +2,17 @@
 
 **Twitter** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
+## Part Two Features
+
+- User can **compose and post a new tweet**
+  - User can click a “Compose” icon in the Action Bar on the top right
+  - User can then enter a new tweet and post this to twitter
+  - User is taken back to home timeline with **new tweet visible** in timeline
+  - Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
+
+## Video Walkthrough
+
+<img src="https://github.com/varunjitsingh6410/Twitter-Kotlin/blob/master/Twitter-Demo-p2.gif?raw=true" width="250" height="400">
 
 ## Features
 
